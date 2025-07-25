@@ -19,11 +19,18 @@
             rectangle.Width = 5;
             rectangle.CalculatePerimeter();
             rectangle.DisplayRectangleInfo();
-            rectangle.Area =50; // Example area value
+            rectangle.Area = 50; // Example area value
 
-            Console.WriteLine(  $"Rectangle Area:  {rectangle.Area}");
+            Console.WriteLine($"Rectangle Area:  {rectangle.Area}");
 
-           #endregion
+            #endregion
+
+           
+
+
+
+
+
         }
     }
 }
