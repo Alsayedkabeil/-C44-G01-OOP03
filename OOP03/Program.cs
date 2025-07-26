@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //sss
             #region Part2 Q01
             Circle circle = new Circle();
             IShape circleShape = circle;

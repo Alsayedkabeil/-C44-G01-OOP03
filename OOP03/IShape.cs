@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OOP03
-{
+{ //sss
     internal interface IShape
     {
 
